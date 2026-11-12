@@ -1,0 +1,13 @@
+MUSHROOM HUNT — FREE PBR TEXTURE SOURCES
+======================================
+Textures from Poly Haven, CC0 1.0 Universal (public domain dedication):
+https://polyhaven.com/license
+https://polyhaven.com/a/forrest_ground_01  — forest floor: diffuse and OpenGL normal, 2K JPG
+https://polyhaven.com/a/mossy_rock        — mossy rocks: diffuse and OpenGL normal, 2K JPG
+https://polyhaven.com/a/bark_brown_02     — bark: diffuse and OpenGL normal, 1K JPG
+
+The installer downloads these six image files directly from the Poly Haven CDN.
+These image files are part of the finished Unity project (not downloaded at game runtime).
+Actual file license: Creative Commons CC0 1.0 Universal.
+Original authored game scene, assets and scripts: user's mushroomgame repository.
+WRAD FPS hands: https://github.com/wwwriks/wrad-arms, CC0 1.0 Universal.

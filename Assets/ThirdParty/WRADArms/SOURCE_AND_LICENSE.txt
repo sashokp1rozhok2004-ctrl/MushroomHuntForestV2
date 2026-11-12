@@ -1,0 +1,10 @@
+WRAD ARMS by wriks — CC0 1.0 Universal
+https://github.com/wwwriks/wrad-arms
+
+FBX: arms.fbx
+Texture: arm_albedo_pale.png
+License: LICENSE.txt (downloaded automatically by SETUP_PROJECT.bat)
+
+The author marks WRAD ARMS CC0 1.0 Universal, with permission to use,
+modify, and distribute the assets, including for commercial purposes.
+Keep this file so the asset source remains clear.
